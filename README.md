@@ -1,0 +1,2 @@
+- 👋 Fullstack JavaScript devloper & frontend architect specializing in Angular
+- 📫 wojtekkomor@gmail.com
