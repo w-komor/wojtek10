@@ -1,2 +1,3 @@
-- 👋 Fullstack JavaScript developer & frontend architect specializing in Angular
+- 👋 Software Engineer and Manager | Specializing in Frontend Development and Node.js
+- ⭐⭐⭐⭐⭐ Top Rated Plus on Upwork | 100% customer satisfaction | 5.0/5 rating
 - 📫 wojtekkomor@gmail.com
