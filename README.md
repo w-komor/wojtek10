@@ -1,3 +1,3 @@
-👋 Software Engineer specializing in Frontend and Node.js
-
+👋 Frontend architect | Frontend tech lead
+💗 Specializing in Angular and Nest.js
 📫 wojtekkomor@gmail.com
