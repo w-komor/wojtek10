@@ -1,4 +1,4 @@
-👋 Frontend architect | Frontend tech lead
+👋 Frontend architect | Technical lead
 
 💗 Specializing in Angular and Nest.js
 
